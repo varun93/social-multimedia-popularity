@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My Webpage</title>
+    <style type="text/css">
+    		ul {
+    			background-color: #EBEBEB;
+    			list-style-image: url(arrow.png);
+    			font-family: Verdana, Helvetica, sans-serif;
+    			font-size: 11px;
+    			padding: 15px;
+    			width: 410px;
+    			border-radius: 20px;
+    			-moz-border-radius: 20px;
+    			-webkit-border-radius: 20px;
+    		}
+    		li {
+    			margin: 10px;
+    			margin-left: 25px;
+    		}
+    	</style>
+</head>
+<body>
+  
+
+<h1>Tweet Feed</h1>
+
+
+
+<ul>
+{% for cluster_id, tweets in data.iteritems() %}
+  <li>{{ ','.join(tweets[1]) }} </li>
+
+  <ul>
+  	{% for tweet in tweets[0] %}
+  	 <li>{{ ' '.join(tweet.tweet) }} </li>   <!-- -->
+  	 <ul style = "list-style-type: none">
+  	 	<li> {{ tweet.channel }}</li>
+  	 	<li>{{ tweet.created_time }} </li>
+  	 	
+  	 </ul>
+  	{% endfor %}
+  </ul>
+    
+{% endfor %}
+ </ul>
+
+
+
+</body>
+</html>

@@ -1,0 +1,230 @@
+body
+
+{
+
+background: WHITE;
+
+}
+
+#ieee_logo
+
+{
+
+position:absolute;
+
+top:4%;
+
+left:18%;
+
+z-index:1;
+
+float:left;
+
+size: 50%;
+
+}
+
+#social
+
+{
+
+margin-bottom:2%;
+
+padding:2%;
+
+float:right;
+
+z-index=1;
+
+}
+#cluster
+{
+
+}
+div.container
+
+{
+
+margin:auto;
+
+width:80%;
+
+height:200%;
+
+background:rgb(229, 244, 243);
+
+border-radius:15px;
+
+opacity:0.95;
+
+
+}
+
+div.header,div.footer
+
+{
+
+margin:auto;
+
+width:80%;
+
+height:20%;
+
+colour:white;
+
+background:rgb(40,169,226);
+
+
+}
+
+#sigs
+
+{
+
+background:white;
+
+width:25%;
+
+height:80%;
+
+border-radius:15px;
+
+border:1px solid grey;
+margin-left:1.4%;
+
+position:relative;
+
+top:10%;
+
+color: grey;
+text-align:center;
+
+
+}
+#description
+{
+
+width:80%;
+
+height:200%;
+
+margin-left:1.4%;
+
+position:absolute;
+
+top:30%;
+
+left: 10%;
+
+color: grey;
+overflow: hidden;
+}
+@font-face
+{
+font-family: myFirstFont;
+src: url('big_noodle_titling.ttf')
+}
+
+
+
+#c
+{
+border-radius:15px;
+width: 98%;
+height:10%;
+background: url('bar.png');
+margin: auto;
+padding: 10px;
+color: white;
+font-size:200%;
+font-family:myFirstFont; 
+}
+#text1
+{
+width: 80%;
+height:10%;
+padding:15px;
+font-family: 'PT Sans Narrow', sans-serif;
+display: inline-flex;
+}
+#text2
+{
+width: 80%;
+height:10%;
+top: 65%;
+padding:15px;
+font-family: 'PT Sans Narrow', sans-serif;
+display: inline-block;
+}
+div.leftclmn
+
+{
+
+border-radius:15px;
+
+background-color: rgb(0, 114, 168);
+
+color: white;
+
+width:20%;
+
+height:5%;
+
+margin-left:1.4%;
+
+margin-bottom:2.6%;
+
+font-family:myFirstFont;
+
+font-size:150%;
+padding: 0.5%;
+
+position:fixed;
+
+top:95%;
+
+z-index:1;
+
+border: 1px solid grey;
+
+text-align:centre;
+
+text-size:100%;
+
+}
+#rightcolumn
+{
+background-color: rgb(0, 114, 168);
+left: 65%;
+border: 1px solid grey;
+}
+h.header
+
+{
+
+font-size:250%;
+
+color:white;
+
+text-align:center;
+
+margin-left:30%;
+
+}
+
+
+            ul {
+                background-color: #EBEBEB;
+                font-family: Verdana, Helvetica, sans-serif;
+                font-size: 11px;
+                padding: 15px;
+                width: 410px;
+                border-radius: 20px;
+                -moz-border-radius: 20px;
+                -webkit-border-radius: 20px;
+            }
+            li {
+                margin: 10px;
+                margin-left: 25px;
+            }
+        
