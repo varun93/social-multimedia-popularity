@@ -14,7 +14,6 @@ def getTweetText(tweet,hash_tags=None,urls=None,mentions=None,symbols=None):
     filter = hash_tags+urls+mentions+symbols;
 
     try:
-        # print [word.encode('utf-8').translate(None, string.punctuation) for word in tweet.split() if word not in filter]
         return [word for word in tweet.split() if word not in filter]
     except Exception, e:
         raise

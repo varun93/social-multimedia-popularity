@@ -4,8 +4,6 @@ from config import *
 from DBUtils import *	
 from AuthUtils import *
 
-
-
 def updateTwitterStatistics(tweet_id):
 
 	endpoint = "https://api.twitter.com/1.1/statuses/show.json?id=%d&trim_user=true"%(int(tweet_id))
@@ -15,7 +13,6 @@ def updateTwitterStatistics(tweet_id):
 	if tweets is not None:
 		try:
 			retweet_count =  tweets['retweet_count']
-			print retweet_count
 			DBUtils.insertStats(tweet_id,retweet_count)
 		except KeyError:
 			pass
@@ -36,12 +33,12 @@ def checkForPolling():
 			
 
 
-merge_scheduler = BackgroundScheduler()
-merge_scheduler.add_job(checkForPolling,'interval',seconds=60)
+scheduler = BackgroundScheduler()
+scheduler.add_job(checkForPolling,'interval',seconds=60)
 
 
 try:	
-    merge_scheduler.start()
+    scheduler.start()
 except (KeyboardInterrupt, SystemExit):
     pass
 

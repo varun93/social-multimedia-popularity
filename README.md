@@ -5,8 +5,7 @@ An application to cluster and rank twitter news sources
 
 ## Twitter_News_Ranking ##
 
-Twitter news feeds are dynamically clustered and the news are ranked on basis of trendiness and the news sources within the cluster 
-ranked too.
+Twitter news feeds are dynamically clustered and the news are ranked on basis of trendiness and the news sources within the cluster ranked too.
 
 
 ## Requirements
