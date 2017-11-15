@@ -1,0 +1,44 @@
+(lp0
+S'Should watch this'
+p1
+aS"me age 5 i dont remember... but my grandpa was shot dead during a robbery...\nMOM: your grandpa died last night in his sleep\nME: are you sure he wasn't shot? i heard gunshots in my dreams last night...\nMOM: wtf...."
+p2
+aS'Ew.'
+p3
+aS"This movie sucks.. it leaves ya hanging. An as for the sequel it doesn't \nhave the same actor in it. The whole story line is a segmented joke !"
+p4
+aS'I liked this movie'
+p5
+aS'Fadoo h rey baba'
+p6
+aS'whats the one with twins that where experimented on in ww2 two and they \nfound a portal 2 the other side using the twins and a deamon basiclly \nhaunts the family generations after?'
+p7
+aS',  .   . : )'
+p8
+aS'scaree'
+p9
+aS"Yes, it's scary but the movie scares very primitive for me. It's a typical \nscreamers and nothing more."
+p10
+aS'the movie is ready to watch ? i want to see this movie i think it is so \ngood ! Have a nice day!'
+p11
+aS"I didn't know Jacques Kaalis also acted in movies"
+p12
+aS'This movie is so freakin cool...scary as hell'
+p13
+aS'1:16 XDXDXD'
+p14
+aS'der film is omg! ich hatte nur schreie xD ich finds cool geiler film echt '
+p15
+aS"just put smoke and before the title please, not scary at all.  Eli Roth's \nupcoming Green Inferno looks more interesting and freaky."
+p16
+aS'Omg'
+p17
+aS"scary oooooo:o i'm not goin 2 have a gud sleep......."
+p18
+aS'OMG :OO'
+p19
+aS"15-th august? It's my birthday. \nBy the way. How about the scene in the bath with sister and mouth rupture?"
+p20
+aS'O may got!!!'
+p21
+a.

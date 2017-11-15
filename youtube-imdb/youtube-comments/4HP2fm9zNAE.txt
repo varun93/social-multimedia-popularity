@@ -1,0 +1,44 @@
+(lp0
+S'May i know the background music please? thanks!'
+p1
+aS'Wait is that Sheldon from big bang theory at 2:05?'
+p2
+aS'I wish that I can see this film in germany plz'
+p3
+aS'What is the song at 0:23? I love it!!!'
+p4
+aS"Talia!  Don't be scared!  You climbed out of the pit.  A little water can't \nhurt."
+p5
+aS"This really is a great movie! Trailer doesn't even cover it, it's really an \nawesome film! Applause!"
+p6
+aS'anyone know the song at 1:00 ?! beautiful'
+p7
+aS"anyone notice when shes standing at the pool and says shes scared, she has \nthe wig on.. them when shes jumping in she don't have the wig on?? "
+p8
+aS"it's time to redeem yourself after season 9 of scrubs ... if it's possible "
+p9
+aS'YOU are not unique.. that is why there are 9 billion of you'
+p10
+aS'Seeing it tonight and Zach Braff will be there as well :D'
+p11
+aS"'I have this crazy idea! Somehow it goes till the end'. WHAT IS this \nsong..?! Driving me bonkers since last couple of days. And seems like you \ncannot find everything on the internet :( Anybody can help please?"
+p12
+aS'Wish I Was Here:\n1  The Shins So Now What \n2  Gary Jules Broke Window \n3  Radical Face The Mute \n4  Hozier Cherry Wine (Live) \n5  Bon Iver Holocene \n6  Badly Drawn Boy The Shining \n7  Jump Little Children Mexico \n8  Cat Power & Coldplay Wish I Was Here \n9  Allie Moss Wait It Out \n10  Paul Simon The Obvious Child \n11  Japanese Wallpaper Breathe In [ft. Wafia] \n12  Bon Iver Heavenly Father \n13  Aaron Embry Ravens Song \n14  The Weepies Mend \n15  The Head & the Heart No One to Let You Down'
+p13
+aS'I need to see this movie!!!!!!'
+p14
+aS'So looking forward to this movie!!  I was one of the many who contributed \nfinancially through Kickstarter.  How awesome to be a part of it.'
+p15
+aS'Wish I Was Here Official Trailer #1 (2014) HD'
+p16
+aS'Sheldon 2:05 !'
+p17
+aS'When he does the whole monologue thing\nI swear it brings me back to Scrubs\nNostalgia brings me tears.'
+p18
+aS'what is this? is a film?'
+p19
+aS"Guys, any one knows what's the kind of sunglasses Zack wearing in the Aston \nMartin scene? "
+p20
+aS"Looks great!\n\nCan't wait!"
+p21
+a.

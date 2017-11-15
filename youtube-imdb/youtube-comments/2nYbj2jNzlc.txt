@@ -1,0 +1,196 @@
+(lp0
+S"what's the name of the song?"
+p1
+aS'Can anybody tell me the name of the song or the artiste in this trailer \nplease.'
+p2
+aS"Wow this was a really fucking good movie, I almost cried.\n\nI'm not sure how I got here from watching random shitty comedy movie \ntrailers but I'm so glad I found this.  Very down to earth movie with an \nengaging plot."
+p3
+aS"can someone please explain this film to me I don't get it?"
+p4
+aS'Wait, I watched this trailer like nine times and all I can say is\n\n\n\n\n\n\n\nWhat the fuck?'
+p5
+aS"this was one of the best movies i've seen in a while. a series of very \ninteresting and unpredictable narratives "
+p6
+aS'This movie was amazing... showing three different situations.. \n\nVery emotional, 4 1/2 stars. Loved it.'
+p7
+aS"Does it contain any nudity? I'm okay with drugs and swearing, just not \nnudity but I really wanna watch the movie!"
+p8
+aS'i will make sure i dont get disconnected when im watching it online :D'
+p9
+aS'rah rah the internet is scary and thomas edison was a witch'
+p10
+aS'whats the name of song in last movie when it ends?'
+p11
+aS'Looks intense'
+p12
+aS'Reminds me of Men, Women and Children'
+p13
+aS'this movie is good,and ima watch it.'
+p14
+aS'seems like a great movie , is that  good? enlight me please ! '
+p15
+aS'was that marc jacobs at the end that said trust me no one else?? looked soo \nmuch like him! this was at 2:15'
+p16
+aS'a must watch movie.'
+p17
+aS'This movie was awesome. AWESOME.'
+p18
+aS'such a frigging intense movie omg'
+p19
+aS'Guys seriously you need to go see this movie! Its so worth it'
+p20
+aS'Tell the name of powerful background music at the second part of trailer?? \nSomebody! shazam cant find it.'
+p21
+aS'Incredible movie! '
+p22
+aS'Now that was a great movie......... '
+p23
+aS'The Music ?'
+p24
+aS'Drama drama drama aaannnd drama'
+p25
+aS'What song is this?'
+p26
+aS'I really enjoyed the movie even thought the ending was a bit abrupt.. '
+p27
+aS"I just watched this movie but i don't understand the ending?"
+p28
+aS"Hmm.. I'm very confused. I don't get anything that happened. "
+p29
+aS"I know its good...but I don't want to see it. I could feel my heart break \nfor that kid watching the trailer. I know if I see the movie, I will be no \ngood..."
+p30
+aS'This movie is awesome ! '
+p31
+aS'Very good movie!! '
+p32
+aS'2:03 lol swenglish '
+p33
+aS'This movie is awesome. 5 stars! :)'
+p34
+aS"Oh my god, now I think i'm gonna start deleting social accounts that I dont \nuse."
+p35
+aS'the movie was good until the end it left everything so unexplained and \nconfusing.'
+p36
+aS"so much going on in this trailer, I can't handle it!"
+p37
+aS'this film is so fucking good.'
+p38
+aS'but its so sad'
+p39
+aS'This movie is GREAT !!!'
+p40
+aS'OMG Eric from True blood !! '
+p41
+aS'Great movie :) '
+p42
+aS'Max Thieriot !!!'
+p43
+aS'I loved the story line with kyle and nina, anyone else know movies with a \nsimilar story line?'
+p44
+aS'@VelleJacobs its called sail by awolnation :)'
+p45
+aS'ive never been so confused after watching a trailer in the career'
+p46
+aS"I swear I'm going to watch this right now."
+p47
+aS"The song doesn't match hahah"
+p48
+aS'The Movie Is way better than the trailer ;(((((((('
+p49
+aS"A puma!?!? I'm going to start using that. "
+p50
+aS'This movie made me cry. It was a great film and if toy use the internet you \nshould see this '
+p51
+aS'Trust me, you should trust no one.'
+p52
+aS"Wasn't there a MTV version of this?"
+p53
+aS'Looks so good'
+p54
+aS'<3Max Thieriot<3'
+p55
+aS'I looked down at the moment the girl messaged the guy on FB and I thought \nsomeone had messaged me on mine -__- lmao *facepalm*'
+p56
+aS'this trailer makes no sense but i will give it a chance to prove me wrong'
+p57
+aS"Was this so bad, or why wasn't it a bigger hit?"
+p58
+aS"It's looks like a bad movie but good a the some time"
+p59
+aS' '
+p60
+aS'This was a fucking amazing film'
+p61
+aS'love this movie!!'
+p62
+aS"i really liked this movie, it' really good."
+p63
+aS'fucking great movie! '
+p64
+aS'This MOVIE was great a life lesson for anybody'
+p65
+aS"Im confused. -__- What's with the boy? uggh"
+p66
+aS'Colin Ford <3'
+p67
+aS'Bens sister is Brenna from Chasing Life?.'
+p68
+aS'0:30 i just check my facebook, damn you trailer'
+p69
+aS'The blonde guy is on bates motel '
+p70
+aS'This trailer is so confusing I had to watch it 5 times just to understand \nit'
+p71
+aS'had to watch the trailer twice just to understand it, all i can say is wow! \ncant wait to see it'
+p72
+aS'IT looks good but the trailer was a tad bit confusing...'
+p73
+aS'Sail always reminds me of walking dead :)'
+p74
+aS'anyone saw this?'
+p75
+aS"I think this movie is awesome because it's fucking reality. These stories \nhave happened to everyone!"
+p76
+aS'only watched because of marc jacobs'
+p77
+aS'Looks so good'
+p78
+aS'love this movie!!'
+p79
+aS'had to watch the trailer twice just to understand it, all i can say is wow! \ncant wait to see it'
+p80
+aS'Es una peli muy buena , deja un gran mensaje a los hijos y padres !!! :)'
+p81
+aS'Colin Ford! Little Sammy!'
+p82
+aS'is..is that marc jacobs?!?'
+p83
+aS'I want to watch this movie :)'
+p84
+aS'Bullshit!! Suck My Dick!! Ya Hear!!!'
+p85
+aS'Whos the bad guy'
+p86
+aS'Great movie!!!'
+p87
+aS'SUSPENSE!!!!'
+p88
+aS'cool. I wana watch sply tht Jessica thingy'
+p89
+aS'what is the music beginnig of the trailer ?'
+p90
+aS'looks like an original idea from hollywood for once, good to see'
+p91
+aS'Trailer is horribly done.'
+p92
+aS'DAMMIT, I keep wanting to look up. lol'
+p93
+aS'Max is so hot!!!'
+p94
+aS'One of my favorite movies. Loved it. '
+p95
+aS'This actually looks good.'
+p96
+aS"Max Thieriot, Oh my gosh, he's so hot! He's a puma."
+p97
+a.
