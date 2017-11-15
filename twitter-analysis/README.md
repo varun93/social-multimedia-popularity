@@ -39,9 +39,3 @@ In order to do cluster maintenance for deletion and for merging.
 In order to do ranking and get the web application up and running.
 	`python ranking.py`
 	
-
-## Contributors
-
-+ Varun Hegde(1hvarun@gmail.com)
-+ Santosh MS(sanms1993@gmail.com)
-+ Pramati Kalwad(pramati@gmail.com)
